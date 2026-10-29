@@ -5,6 +5,10 @@
 A protocol for extracting Bitcoin block hash entropy into ordinal artifacts and
 provenance-bound units.
 
+A Rust indexer is under development. This checkout does not yet include a
+runnable implementation. Existing datasets and volumes remain available pending
+explicit deprecation.
+
 ---
 
 A **Bitnats Block** is an ordinal artifact representing a Bitcoin block whose

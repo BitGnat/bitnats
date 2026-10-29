@@ -1,11 +1,10 @@
-# ----------------------------------------
-# Bitnats AI Architecture Context (private)
-# ----------------------------------------
+# Rust build output
+/target/
 
-ai-context/
-spec/
-prompts/
-scratch/
-dataset_v2/
-AGENTS.md
-ops/
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# macOS metadata
+.DS_Store
